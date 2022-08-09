@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kentshenlim
+- 👋 Hi, I’m Dioleoylphosphatidylcholine
 - 🌱 I’m currently learning web dev (HTML CSS JS)
 - 💞️ I’m looking to collaborate on web dev 
 - 📫 How to reach me kentshen_lim2@hotmail.com
